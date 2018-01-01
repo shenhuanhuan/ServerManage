@@ -1,0 +1,5 @@
+1.鼠标右键打开git bash输入命令
+git clone 项目地址(在github上创建的项目)
+此时会在你当前目录下clone下来这个项目结构
+
+2.进入该项目的根目录再打开git bash提交代码到github仓库
