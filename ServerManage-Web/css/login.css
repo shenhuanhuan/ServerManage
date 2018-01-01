@@ -1,0 +1,28 @@
+             h1  
+            {   font-family: "微软雅黑";
+				font-style: normal;
+				text-align: center;
+				font-weight: 100;
+				color: blueviolet;
+			}
+			img
+			{
+				float: left;
+			}
+			input
+			{
+				width: 300px;
+				height: 50px;
+				border: 1px solid blue;
+				margin: 20px 25px 20px -300px;
+				padding: 2px;
+			}
+			button
+			{
+				width: 300px;
+				height: 50px;
+				border: 1px solid orange;
+				color: red;
+				margin: 20px 25px 20px -300px;
+				padding: 2px;
+			}
