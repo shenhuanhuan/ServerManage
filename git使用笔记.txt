@@ -3,3 +3,6 @@ git clone 项目地址(在github上创建的项目)
 此时会在你当前目录下clone下来这个项目结构
 
 2.进入该项目的根目录再打开git bash提交代码到github仓库
+git add --all （添加所有改动到本地，改动到内存）
+git commit -m "标注" （提交改动到本地仓库）
+git push （推送本地代码到远程仓库） 
